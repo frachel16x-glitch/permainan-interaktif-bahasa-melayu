@@ -1,0 +1,6 @@
+{
+  "name": "Jejak Simpulan · 5UUM",
+  "description": "Permainan interaktif padanan maksud simpulan bahasa Bahasa Melayu untuk kelas Tingkatan 5 UUM bersama Cikgu Fedelish.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
